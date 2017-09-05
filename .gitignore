@@ -3,3 +3,4 @@ lib/
 local/
 include/
 pip-selfcheck.json
+blog/db.sqlite3
